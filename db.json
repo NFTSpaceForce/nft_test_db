@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        {
+            "id": 0,
+            "description": "Test NFT 0",
+            "image": "https://twemoji.maxcdn.com/svg/1f44d.svg",
+            "name": "My NFT 0"
+        },
+        {
+            "id": 1,
+            "description": "Test NFT 1",
+            "image": "https://twemoji.maxcdn.com/svg/1f44f.svg",
+            "name": "My NFT 1"
+        },
+        {
+            "id": 2,
+            "description": "Test NFT 2",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 2"
+        }
+    ]
+}
